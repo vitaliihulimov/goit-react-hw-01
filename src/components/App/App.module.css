@@ -9,7 +9,7 @@
   display: flex;
   flex-direction: column;
   gap: 80px;
-  padding: 40px;
+  padding: 40px 400px;
 }
 
 .logo {
